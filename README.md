@@ -19,3 +19,7 @@ On the frontend side, the application is built using HTML, CSS, and JavaScript, 
 The application includes key features such as real-time messaging, message history, and multi-user support. When a user opens the chat application, the server sends previously stored messages so that the user can view the chat history. This ensures continuity in communication. The application also supports multiple users simultaneously, allowing them to chat in real time by opening the application in different browser tabs or devices.
 For development, the project is built using Visual Studio Code (VS Code). This editor provides essential features such as syntax highlighting, debugging tools, and extensions like Live Server, which help in running and testing the application efficiently. VS Code makes it easier to manage multiple files such as server code, frontend code, and stylesheets in one place.
 Overall, this real-time chat application is a practical example of combining frontend and backend technologies to create an interactive system. It helps in understanding important concepts such as client-server communication, event handling, and real-time data exchange. This project not only strengthens programming skills but also serves as a foundation for building more advanced applications like messaging platforms, collaboration tools, and social media systems.
+
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ba129ee0-c017-4e91-a409-af3316bb2a99"/>
